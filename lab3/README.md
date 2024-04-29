@@ -8,18 +8,4 @@
 - HourlyTipsExerxise
 - ExpiringStateExercise
 
-## 1. RideCleanisingExercise
-Тест:
-![](images/RideCleanisingExercise.jpg)
-
-## 2. RidesAndFaresExercise
-Тест:
-![](images/RidesAndFaresExercise.jpg)
-
-## 3. HourlyTipsExerxise
-Тест:
-![](images/HourlyTipsExerxise.jpg)
-
-## 4. ExpiringStateExercise
-Тест:
-![](images/ExpiringStateExercise.jpg)
+скриншоты тестов находятся в папке images
